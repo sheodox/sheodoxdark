@@ -850,10 +850,10 @@ hi MatchParen       guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231  ctermbg=
 hi ModeMsg          guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231  ctermbg=234 gui=NONE cterm=NONE
 hi MoreMsg          guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231  ctermbg=234 gui=NONE cterm=NONE
 hi NonText          guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231  ctermbg=234 gui=NONE cterm=NONE
-hi Pmenu            guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231  ctermbg=234 gui=NONE cterm=NONE
-hi PmenuSel         guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231  ctermbg=234 gui=NONE cterm=NONE
-hi PmenuSbar        guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231  ctermbg=234 gui=NONE cterm=NONE
-hi PmenuThumb       guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231  ctermbg=234 gui=NONE cterm=NONE
+hi Pmenu            guisp=NONE guifg=#ffffff guibg=#333333 ctermfg=231  ctermbg=236 gui=NONE cterm=NONE
+hi PmenuSel         guisp=NONE guifg=#ffffff guibg=#4f4f4f ctermfg=231  ctermbg=239 gui=NONE cterm=NONE
+hi PmenuSbar        guisp=NONE guifg=#ffffff guibg=#292929 ctermfg=231  ctermbg=235 gui=NONE cterm=NONE
+hi PmenuThumb       guisp=NONE guifg=#ffffff guibg=#383838 ctermfg=231  ctermbg=237 gui=NONE cterm=NONE
 hi Question         guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231  ctermbg=234 gui=NONE cterm=NONE
 hi QuickFixLine     guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231  ctermbg=234 gui=NONE cterm=NONE
 hi Search           guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231  ctermbg=234 gui=NONE cterm=NONE
