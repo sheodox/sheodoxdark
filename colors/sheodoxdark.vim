@@ -831,10 +831,10 @@ hi CursorIM         guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=
 hi CursorColumn     guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
 hi CursorLine       guisp=NONE guifg=NONE    guibg=#1e202e ctermfg=NONE ctermbg=235  gui=NONE      cterm=NONE
 hi Directory        guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
-hi DiffAdd          guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
-hi DiffChange       guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
-hi DiffDelete       guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
-hi DiffText         guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
+hi DiffAdd          guisp=NONE guifg=NONE    guibg=#0a3605 ctermfg=NONE ctermbg=234  gui=NONE      cterm=NONE
+hi DiffChange       guisp=NONE guifg=NONE    guibg=#022b38 ctermfg=NONE ctermbg=235  gui=NONE      cterm=NONE
+hi DiffDelete       guisp=NONE guifg=NONE    guibg=#4f0808 ctermfg=NONE ctermbg=52   gui=NONE      cterm=NONE
+hi DiffText         guisp=NONE guifg=NONE    guibg=#474747 ctermfg=NONE ctermbg=238  gui=NONE      cterm=NONE
 hi EndOfBuffer      guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
 hi ErrorMsg         guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
 hi VertSplit        guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
@@ -917,4 +917,11 @@ hi Tag            guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE g
 hi Delimiter      guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
 hi SpecialComment guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
 hi Debug          guisp=NONE guifg=#ffff00 guibg=NONE ctermfg=226 ctermbg=NONE gui=NONE cterm=NONE
+
+" Vim-fugitive
+
+hi DiffAdd    guisp=NONE guifg=NONE guibg=#0a3605 ctermfg=NONE ctermbg=234 gui=NONE cterm=NONE
+hi DiffChange guisp=NONE guifg=NONE guibg=#022b38 ctermfg=NONE ctermbg=235 gui=NONE cterm=NONE
+hi DiffText   guisp=NONE guifg=NONE guibg=#474747 ctermfg=NONE ctermbg=238 gui=NONE cterm=NONE
+hi DiffDelete guisp=NONE guifg=NONE guibg=#4f0808 ctermfg=NONE ctermbg=52  gui=NONE cterm=NONE
 
