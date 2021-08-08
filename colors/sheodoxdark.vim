@@ -43,7 +43,7 @@ hi javaScriptError            guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ct
 hi javaScrParenError          guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
 hi javaScriptNull             guisp=NONE guifg=#ffff00 guibg=NONE ctermfg=226 ctermbg=NONE gui=NONE   cterm=NONE
 hi javaScriptBoolean          guisp=NONE guifg=#ffff00 guibg=NONE ctermfg=226 ctermbg=NONE gui=NONE   cterm=NONE
-hi javaScriptIdentifier       guisp=NONE guifg=#fc517c guibg=NONE ctermfg=204 ctermbg=NONE gui=NONE   cterm=NONE
+hi javaScriptIdentifier       guisp=NONE guifg=#ffff00 guibg=NONE ctermfg=226 ctermbg=NONE gui=NONE   cterm=NONE
 hi javaScriptLabel            guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
 hi javaScriptException        guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
 hi javaScriptMessage          guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
@@ -829,7 +829,7 @@ hi Cursor           guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=
 hi lCursor          guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
 hi CursorIM         guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
 hi CursorColumn     guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
-hi CursorLine       guisp=NONE guifg=NONE    guibg=#1e282e ctermfg=NONE ctermbg=235  gui=NONE      cterm=NONE
+hi CursorLine       guisp=NONE guifg=NONE    guibg=#1e202e ctermfg=NONE ctermbg=235  gui=NONE      cterm=NONE
 hi Directory        guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
 hi DiffAdd          guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
 hi DiffChange       guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
@@ -850,10 +850,10 @@ hi MatchParen       guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=
 hi ModeMsg          guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
 hi MoreMsg          guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
 hi NonText          guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
-hi Pmenu            guisp=NONE guifg=#ffffff guibg=#616161 ctermfg=231  ctermbg=241  gui=NONE      cterm=NONE
-hi PmenuSel         guisp=NONE guifg=#ffffff guibg=#707070 ctermfg=231  ctermbg=242  gui=NONE      cterm=NONE
-hi PmenuSbar        guisp=NONE guifg=#ffffff guibg=#616161 ctermfg=231  ctermbg=241  gui=NONE      cterm=NONE
-hi PmenuThumb       guisp=NONE guifg=#ffffff guibg=#383838 ctermfg=231  ctermbg=237  gui=NONE      cterm=NONE
+hi Pmenu            guisp=NONE guifg=#ffffff guibg=#2c3545 ctermfg=231  ctermbg=237  gui=NONE      cterm=NONE
+hi PmenuSel         guisp=NONE guifg=#ffffff guibg=#455166 ctermfg=231  ctermbg=240  gui=NONE      cterm=NONE
+hi PmenuSbar        guisp=NONE guifg=#ffffff guibg=#242830 ctermfg=231  ctermbg=235  gui=NONE      cterm=NONE
+hi PmenuThumb       guisp=NONE guifg=#ffffff guibg=#3d444f ctermfg=231  ctermbg=238  gui=NONE      cterm=NONE
 hi Question         guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
 hi QuickFixLine     guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
 hi Search           guisp=NONE guifg=#ffffff guibg=#064541 ctermfg=231  ctermbg=23   gui=NONE      cterm=NONE
@@ -878,7 +878,7 @@ hi WildMenu         guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=
 
 " major
 
-hi Normal     guisp=NONE guifg=#ffffff guibg=#141410 ctermfg=231 ctermbg=233  gui=NONE      cterm=NONE
+hi Normal     guisp=NONE guifg=#ffffff guibg=#16191c ctermfg=231 ctermbg=234  gui=NONE      cterm=NONE
 hi Comment    guisp=NONE guifg=#fa86ff guibg=NONE    ctermfg=213 ctermbg=NONE gui=NONE      cterm=NONE
 hi Constant   guisp=NONE guifg=#2bffeb guibg=NONE    ctermfg=51  ctermbg=NONE gui=NONE      cterm=NONE
 hi Identifier guisp=NONE guifg=#ffff00 guibg=NONE    ctermfg=226 ctermbg=NONE gui=NONE      cterm=NONE
