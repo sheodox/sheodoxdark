@@ -560,7 +560,7 @@ hi shDTestError            guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ct
 hi shTestError             guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
 hi shOption                guisp=NONE guifg=#ff6400 guibg=NONE    ctermfg=202 ctermbg=NONE gui=NONE cterm=NONE
 hi shRedir                 guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
-hi shOperator              guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
+hi shOperator              guisp=NONE guifg=#ffff00 guibg=NONE    ctermfg=226 ctermbg=NONE gui=NONE cterm=NONE
 hi shPattern               guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
 hi shExpr                  guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
 hi shSubSh                 guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
@@ -600,12 +600,12 @@ hi shSkipInitWS            guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ct
 hi shCmdParenRegion        guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
 hi shSource                guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
 hi shColon                 guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
-hi shNumber                guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
+hi shNumber                guisp=NONE guifg=#2bffeb guibg=NONE    ctermfg=51  ctermbg=NONE gui=NONE cterm=NONE
 hi shCtrlSeq               guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
 hi shSpecial               guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
 hi shExSingleQuote         guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
 hi shExDoubleQuote         guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
-hi shSingleQuote           guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
+hi shSingleQuote           guisp=NONE guifg=#00ff5d guibg=NONE    ctermfg=47  ctermbg=NONE gui=NONE cterm=NONE
 hi shDoubleQuote           guisp=NONE guifg=#00ff5d guibg=NONE    ctermfg=47  ctermbg=NONE gui=NONE cterm=NONE
 hi shStringSpecial         guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
 hi shSpecialSQ             guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
@@ -664,7 +664,7 @@ hi shFunction              guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ct
 hi shHerePayload           guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
 hi shLoop                  guisp=NONE guifg=#ffff00 guibg=NONE    ctermfg=226 ctermbg=NONE gui=NONE cterm=NONE
 hi shPosnParm              guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
-hi shRange                 guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
+hi shRange                 guisp=NONE guifg=#ffff00 guibg=NONE    ctermfg=226 ctermbg=NONE gui=NONE cterm=NONE
 hi shSetListDelim          guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
 hi shSubShRegion           guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
 hi bashAdminStatement      guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
