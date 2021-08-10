@@ -53,6 +53,9 @@ hi javaScriptDeprecated       guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ct
 hi javaScriptReserved         guisp=NONE guifg=#ffff00 guibg=NONE ctermfg=226 ctermbg=NONE gui=NONE   cterm=NONE
 hi javaScriptDebug            guisp=NONE guifg=#ffff00 guibg=NONE ctermfg=226 ctermbg=NONE gui=NONE   cterm=NONE
 hi javaScriptConstant         guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
+hi javscriptTSProperty        guisp=NONE guifg=#ff6400 guibg=NONE ctermfg=202 ctermbg=NONE gui=NONE   cterm=NONE
+hi javascriptTSPunctBracket   guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
+hi javascriptTSInclude        guisp=NONE guifg=#ffff00 guibg=NONE ctermfg=226 ctermbg=NONE gui=NONE   cterm=NONE
 
 " typescript
 
@@ -353,6 +356,10 @@ hi typescriptConstructSignature        guisp=NONE guifg=#ffffff guibg=NONE cterm
 hi typescriptAliasKeyword              guisp=NONE guifg=#ffff00 guibg=NONE ctermfg=226 ctermbg=NONE gui=NONE   cterm=NONE
 hi typescriptUserDefinedType           guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
 hi typescriptConstructor               guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
+hi typescriptTSProperty                guisp=NONE guifg=#ff6400 guibg=NONE ctermfg=202 ctermbg=NONE gui=NONE   cterm=NONE
+hi typescriptTSParameter               guisp=NONE guifg=#0087ff guibg=NONE ctermfg=33  ctermbg=NONE gui=NONE   cterm=NONE
+hi typescriptTSInclude                 guisp=NONE guifg=#ffff00 guibg=NONE ctermfg=226 ctermbg=NONE gui=NONE   cterm=NONE
+hi typescriptTSFuncBuiltin             guisp=NONE guifg=#ff6400 guibg=NONE ctermfg=202 ctermbg=NONE gui=NONE   cterm=NONE
 
 " html
 
@@ -538,6 +545,7 @@ hi cssFontDescriptor           guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=23
 hi cssUnicodeRange             guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE cterm=NONE
 hi cssProp                     guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE cterm=NONE
 hi cssAttr                     guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE cterm=NONE
+hi cssTSProperty               guisp=NONE guifg=#ff6400 guibg=NONE    ctermfg=202  ctermbg=NONE gui=NONE cterm=NONE
 
 " bash
 
@@ -925,4 +933,9 @@ hi DiffAdd    guisp=NONE guifg=NONE guibg=#0a3605 ctermfg=NONE ctermbg=234 gui=N
 hi DiffChange guisp=NONE guifg=NONE guibg=#022b38 ctermfg=NONE ctermbg=235 gui=NONE cterm=NONE
 hi DiffText   guisp=NONE guifg=NONE guibg=#474747 ctermfg=NONE ctermbg=238 gui=NONE cterm=NONE
 hi DiffDelete guisp=NONE guifg=NONE guibg=#4f0808 ctermfg=NONE ctermbg=52  gui=NONE cterm=NONE
+
+" Svelte
+
+hi svelteTSTag          guisp=NONE guifg=#8da6ce guibg=NONE ctermfg=110 ctermbg=NONE gui=NONE cterm=NONE
+hi svelteTSTagAttribute guisp=NONE guifg=#00ff5d guibg=NONE ctermfg=47  ctermbg=NONE gui=NONE cterm=NONE
 
