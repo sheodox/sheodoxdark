@@ -364,6 +364,7 @@ hi typescriptTSInclude                 guisp=NONE guifg=#ffff00 guibg=NONE cterm
 hi typescriptTSFuncBuiltin             guisp=NONE guifg=#ff6400 guibg=NONE ctermfg=202 ctermbg=NONE gui=NONE   cterm=NONE
 hi typescriptTSPunctDelimiter          guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
 hi typescriptTSPunctBracket            guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
+hi typescriptTSType                    guisp=NONE guifg=#ff6400 guibg=NONE ctermfg=202 ctermbg=NONE gui=NONE   cterm=NONE
 
 " html
 
@@ -942,6 +943,6 @@ hi DiffDelete guisp=NONE guifg=NONE guibg=#4f0808 ctermfg=NONE ctermbg=52  gui=N
 " Svelte
 
 hi svelteTSTag          guisp=NONE guifg=#8da6ce guibg=NONE ctermfg=110 ctermbg=NONE gui=NONE cterm=NONE
-hi svelteTSTagAttribute guisp=NONE guifg=#00ff5d guibg=NONE ctermfg=47  ctermbg=NONE gui=NONE cterm=NONE
+hi svelteTSTagAttribute guisp=NONE guifg=#ff6400 guibg=NONE ctermfg=202 ctermbg=NONE gui=NONE cterm=NONE
 hi svelteTSTagDelimiter guisp=NONE guifg=#8da6ce guibg=NONE ctermfg=110 ctermbg=NONE gui=NONE cterm=NONE
 
