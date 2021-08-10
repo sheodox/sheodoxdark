@@ -58,6 +58,7 @@ hi javascriptTSPunctBracket   guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ct
 hi javascriptTSInclude        guisp=NONE guifg=#ffff00 guibg=NONE ctermfg=226 ctermbg=NONE gui=NONE   cterm=NONE
 hi javascriptTSProperty       guisp=NONE guifg=#ff6400 guibg=NONE ctermfg=202 ctermbg=NONE gui=NONE   cterm=NONE
 hi javascriptTSPunctDelimiter guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
+hi javascriptTSParameter      guisp=NONE guifg=#0087ff guibg=NONE ctermfg=33  ctermbg=NONE gui=NONE   cterm=NONE
 
 " typescript
 
