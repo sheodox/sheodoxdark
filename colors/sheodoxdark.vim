@@ -56,6 +56,8 @@ hi javaScriptConstant         guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ct
 hi javscriptTSProperty        guisp=NONE guifg=#ff6400 guibg=NONE ctermfg=202 ctermbg=NONE gui=NONE   cterm=NONE
 hi javascriptTSPunctBracket   guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
 hi javascriptTSInclude        guisp=NONE guifg=#ffff00 guibg=NONE ctermfg=226 ctermbg=NONE gui=NONE   cterm=NONE
+hi javascriptTSProperty       guisp=NONE guifg=#ff6400 guibg=NONE ctermfg=202 ctermbg=NONE gui=NONE   cterm=NONE
+hi javascriptTSPunctDelimiter guisp=NONE guifg=#ff6400 guibg=NONE ctermfg=202 ctermbg=NONE gui=NONE   cterm=NONE
 
 " typescript
 
@@ -360,6 +362,8 @@ hi typescriptTSProperty                guisp=NONE guifg=#ff6400 guibg=NONE cterm
 hi typescriptTSParameter               guisp=NONE guifg=#0087ff guibg=NONE ctermfg=33  ctermbg=NONE gui=NONE   cterm=NONE
 hi typescriptTSInclude                 guisp=NONE guifg=#ffff00 guibg=NONE ctermfg=226 ctermbg=NONE gui=NONE   cterm=NONE
 hi typescriptTSFuncBuiltin             guisp=NONE guifg=#ff6400 guibg=NONE ctermfg=202 ctermbg=NONE gui=NONE   cterm=NONE
+hi typescriptTSPunctDelimiter          guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
+hi typescriptTSPunctBracket            guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
 
 " html
 
@@ -546,6 +550,7 @@ hi cssUnicodeRange             guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=23
 hi cssProp                     guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE cterm=NONE
 hi cssAttr                     guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE cterm=NONE
 hi cssTSProperty               guisp=NONE guifg=#ff6400 guibg=NONE    ctermfg=202  ctermbg=NONE gui=NONE cterm=NONE
+hi cssTSType                   guisp=NONE guifg=#ff6400 guibg=NONE    ctermfg=202  ctermbg=NONE gui=NONE cterm=NONE
 
 " bash
 
@@ -938,4 +943,5 @@ hi DiffDelete guisp=NONE guifg=NONE guibg=#4f0808 ctermfg=NONE ctermbg=52  gui=N
 
 hi svelteTSTag          guisp=NONE guifg=#8da6ce guibg=NONE ctermfg=110 ctermbg=NONE gui=NONE cterm=NONE
 hi svelteTSTagAttribute guisp=NONE guifg=#00ff5d guibg=NONE ctermfg=47  ctermbg=NONE gui=NONE cterm=NONE
+hi svelteTSTagDelimiter guisp=NONE guifg=#8da6ce guibg=NONE ctermfg=110 ctermbg=NONE gui=NONE cterm=NONE
 
