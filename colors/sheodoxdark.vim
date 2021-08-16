@@ -840,7 +840,7 @@ hi jsonTSLabel            guisp=NONE guifg=#ff6400 guibg=NONE    ctermfg=202 cte
 
 " misc
 
-hi ColorColumn      guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
+hi ColorColumn      guisp=NONE guifg=NONE    guibg=#364145 ctermfg=NONE ctermbg=237  gui=NONE      cterm=NONE
 hi Conceal          guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
 hi Cursor           guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
 hi lCursor          guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231  ctermbg=NONE gui=NONE      cterm=NONE
