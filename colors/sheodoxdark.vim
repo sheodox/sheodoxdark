@@ -240,10 +240,10 @@ hi typescriptSubtleCryptoMethod        guisp=NONE guifg=#ffffff guibg=NONE cterm
 hi typescriptCryptoProp                guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
 hi typescriptCryptoMethod              guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
 hi typescriptHeadersMethod             guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
-hi typescriptRequestProp               guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
-hi typescriptRequestMethod             guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
-hi typescriptResponseProp              guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
-hi typescriptResponseMethod            guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
+hi typescriptRequestProp               guisp=NONE guifg=#ff6400 guibg=NONE ctermfg=202 ctermbg=NONE gui=NONE   cterm=NONE
+hi typescriptRequestMethod             guisp=NONE guifg=#ff6400 guibg=NONE ctermfg=202 ctermbg=NONE gui=NONE   cterm=NONE
+hi typescriptResponseProp              guisp=NONE guifg=#ff6400 guibg=NONE ctermfg=202 ctermbg=NONE gui=NONE   cterm=NONE
+hi typescriptResponseMethod            guisp=NONE guifg=#ff6400 guibg=NONE ctermfg=202 ctermbg=NONE gui=NONE   cterm=NONE
 hi typescriptServiceWorkerProp         guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
 hi typescriptCacheMethod               guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=NONE   cterm=NONE
 hi typescriptEncodingGlobal            guisp=NONE guifg=#ffffff guibg=NONE ctermfg=231 ctermbg=NONE gui=italic cterm=italic
@@ -836,6 +836,7 @@ hi jsonTest               guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 cte
 hi jsonBraces             guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
 hi jsonNull               guisp=NONE guifg=#ffff00 guibg=NONE    ctermfg=226 ctermbg=NONE gui=NONE cterm=NONE
 hi jsonQuote              guisp=NONE guifg=#ffffff guibg=NONE    ctermfg=231 ctermbg=NONE gui=NONE cterm=NONE
+hi jsonTSLabel            guisp=NONE guifg=#ff6400 guibg=NONE    ctermfg=202 ctermbg=NONE gui=NONE cterm=NONE
 
 " misc
 
