@@ -958,7 +958,7 @@ hi TelescopeBorder         guisp=NONE guifg=#3e94f4 guibg=NONE    ctermfg=69   c
 hi TelescopePromptBorder   guisp=NONE guifg=#3e94f4 guibg=NONE    ctermfg=69   ctermbg=NONE gui=NONE cterm=NONE
 hi TelescopeResultsBorder  guisp=NONE guifg=#3e94f4 guibg=NONE    ctermfg=69   ctermbg=NONE gui=NONE cterm=NONE
 hi TelescopePreviewBorder  guisp=NONE guifg=#3e94f4 guibg=NONE    ctermfg=69   ctermbg=NONE gui=NONE cterm=NONE
-hi TelescopeMatching       guisp=NONE guifg=#3e94f4 guibg=NONE    ctermfg=69   ctermbg=NONE gui=NONE cterm=NONE
+hi TelescopeMatching       guisp=NONE guifg=#d6ffe2 guibg=NONE    ctermfg=194  ctermbg=NONE gui=NONE cterm=NONE
 hi TelescopePromptPrefix   guisp=NONE guifg=#3ef474 guibg=NONE    ctermfg=84   ctermbg=NONE gui=NONE cterm=NONE
 
 " Treesitter
