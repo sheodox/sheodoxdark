@@ -961,3 +961,7 @@ hi TelescopePreviewBorder  guisp=NONE guifg=#3e94f4 guibg=NONE    ctermfg=69   c
 hi TelescopeMatching       guisp=NONE guifg=#3e94f4 guibg=NONE    ctermfg=69   ctermbg=NONE gui=NONE cterm=NONE
 hi TelescopePromptPrefix   guisp=NONE guifg=#3ef474 guibg=NONE    ctermfg=84   ctermbg=NONE gui=NONE cterm=NONE
 
+" Treesitter
+
+hi TSTag guisp=NONE guifg=#8da6ce guibg=NONE ctermfg=110 ctermbg=NONE gui=NONE cterm=NONE
+
