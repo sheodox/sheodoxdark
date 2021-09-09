@@ -2,7 +2,7 @@ const fs = require('fs/promises'),
 	colorsFilePath = './sheodoxdark.json',
 	outputFilePath = './pinto-sheodoxdark.json',
 	colors = [
-		['identifier', 'ff8f40'],
+		['identifier', 'f19618'],
 		['parameter', '399ee6'],
 		['keyword', 'e6c446'],
 		['string', 'aad94c'],
