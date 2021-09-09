@@ -1,0 +1,19 @@
+{
+  "name": "sheodoxdark",
+  "version": "1.0.0",
+  "description": "This is a vim theme based originally on Blackboard.",
+  "main": "index.js",
+  "scripts": {
+    "build": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheodox/sheodoxdark.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sheodox/sheodoxdark/issues"
+  },
+  "homepage": "https://github.com/sheodox/sheodoxdark#readme"
+}
