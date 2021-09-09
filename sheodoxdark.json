@@ -710,7 +710,7 @@
             "Pmenu": {
                 "name": "Pmenu",
                 "foregroundColor": "<<normal>>",
-                "backgroundColor": "#2c3545",
+                "backgroundColor": "<<menuBackground>>",
                 "bold": false,
                 "italic": false,
                 "underline": false,
@@ -721,7 +721,7 @@
             "PmenuSel": {
                 "name": "PmenuSel",
                 "foregroundColor": "<<normal>>",
-                "backgroundColor": "#455166",
+                "backgroundColor": "<<menuSelectionBackground>>",
                 "bold": false,
                 "italic": false,
                 "underline": false,
