@@ -2,9 +2,9 @@ const fs = require('fs/promises'),
 	colorsFilePath = './sheodoxdark.json',
 	outputFilePath = './pinto-sheodoxdark.json',
 	colors = [
-		['identifier', 'f19618'],
+		['keyword', 'ffcb4f'],
+		['identifier', 'ef7b00'],
 		['parameter', '399ee6'],
-		['keyword', 'e6c446'],
 		['string', 'aad94c'],
 		['comment', '636a72'],
 		['normal', 'e5e1cf'],
@@ -16,7 +16,7 @@ const fs = require('fs/promises'),
 		['symbol', 'd2a6ff'],
 		['variable', '5ccfe6'],
 		['static', '979748'],
-		['normalBackground', '0e1419'],
+		['normalBackground', '0e141a'],
 		['menuBackground', '3b404a'],
 		['menuSelectionBackground', '626875'],
 		['colorColumn', '444b55'],
@@ -51,4 +51,4 @@ async function build() {
 	await fs.writeFile(outputFilePath, JSON.stringify(colorsWithKeywords));
 }
 
-build().catch(e => console.error(e));
+	build().catch(e => console.error(e));
