@@ -895,7 +895,7 @@ hi WildMenu         guisp=NONE guifg=#e5e1cf guibg=NONE    ctermfg=253  ctermbg=
 
 " major
 
-hi Normal     guisp=NONE guifg=#e5e1cf guibg=#0e141a ctermfg=253 ctermbg=233  gui=NONE      cterm=NONE
+hi Normal     guisp=NONE guifg=#e5e1cf guibg=#090d11 ctermfg=253 ctermbg=233  gui=NONE      cterm=NONE
 hi Comment    guisp=NONE guifg=#636a72 guibg=NONE    ctermfg=242 ctermbg=NONE gui=NONE      cterm=NONE
 hi Constant   guisp=NONE guifg=#39bae6 guibg=NONE    ctermfg=74  ctermbg=NONE gui=NONE      cterm=NONE
 hi Identifier guisp=NONE guifg=#ffcb4f guibg=NONE    ctermfg=221 ctermbg=NONE gui=NONE      cterm=NONE
