@@ -23,10 +23,10 @@ const fs = require('fs/promises'),
 		['cursorLine', '131721'],
 		['selection', '1b3a5b'],
 		['tabActiveForeground', 'ffffff'],
-		['tabActiveBackground', '3b404a'],
+		['tabActiveBackground', '090d11'],
 		['tabModForeground', '39bae6'],
 		['tabInactiveForeground', 'ffffff'],
-		['tabInactiveBackground', '1e222a'],
+		['tabInactiveBackground', '050709'],
 	],
 	colorMapping = {};
 
