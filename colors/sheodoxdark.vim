@@ -964,11 +964,11 @@ hi TelescopePromptPrefix   guisp=NONE guifg=#aad94c guibg=NONE    ctermfg=149  c
 " barbar.nvim
 
 hi BufferCurrent      guisp=NONE guifg=#ffffff guibg=#090d11 ctermfg=231 ctermbg=233 gui=NONE cterm=NONE
-hi BufferInactive     guisp=NONE guifg=#ffffff guibg=#050709 ctermfg=231 ctermbg=232 gui=NONE cterm=NONE
-hi BufferVisible      guisp=NONE guifg=#ffffff guibg=#050709 ctermfg=231 ctermbg=232 gui=NONE cterm=NONE
+hi BufferInactive     guisp=NONE guifg=#444b55 guibg=#050709 ctermfg=239 ctermbg=232 gui=NONE cterm=NONE
+hi BufferVisible      guisp=NONE guifg=#444b55 guibg=#050709 ctermfg=239 ctermbg=232 gui=NONE cterm=NONE
 hi BufferCurrentSign  guisp=NONE guifg=#ffffff guibg=#090d11 ctermfg=231 ctermbg=233 gui=NONE cterm=NONE
-hi BufferInactiveSign guisp=NONE guifg=#ffffff guibg=#050709 ctermfg=231 ctermbg=232 gui=NONE cterm=NONE
-hi BufferVisibleSign  guisp=NONE guifg=#ffffff guibg=#050709 ctermfg=231 ctermbg=232 gui=NONE cterm=NONE
+hi BufferInactiveSign guisp=NONE guifg=#444b55 guibg=#050709 ctermfg=239 ctermbg=232 gui=NONE cterm=NONE
+hi BufferVisibleSign  guisp=NONE guifg=#444b55 guibg=#050709 ctermfg=239 ctermbg=232 gui=NONE cterm=NONE
 hi BufferCurrentMod   guisp=NONE guifg=#39bae6 guibg=#090d11 ctermfg=74  ctermbg=233 gui=NONE cterm=NONE
 hi BufferVisibleMod   guisp=NONE guifg=#39bae6 guibg=#050709 ctermfg=74  ctermbg=232 gui=NONE cterm=NONE
 hi BufferInactiveMod  guisp=NONE guifg=#39bae6 guibg=#050709 ctermfg=74  ctermbg=232 gui=NONE cterm=NONE

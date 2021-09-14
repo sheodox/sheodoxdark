@@ -25,7 +25,7 @@ const fs = require('fs/promises'),
 		['tabActiveForeground', 'ffffff'],
 		['tabActiveBackground', '090d11'],
 		['tabModForeground', '39bae6'],
-		['tabInactiveForeground', 'ffffff'],
+		['tabInactiveForeground', '444b55'],
 		['tabInactiveBackground', '050709'],
 	],
 	colorMapping = {};
