@@ -20100,6 +20100,72 @@
                 "active": true,
                 "enabled": true
             },
+            "BufferCurrent": {
+                "name": "BufferCurrent",
+                "foregroundColor": "<<tabActiveForeground>>",
+				"backgroundColor": "<<tabActiveBackground>>",
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "lineThrough": false,
+                "active": true,
+                "enabled": true
+            },
+            "BufferInactive": {
+                "name": "BufferInactive",
+                "foregroundColor": "<<tabInactiveForeground>>",
+                "backgroundColor": "<<tabInactiveBackground>>",
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "lineThrough": false,
+                "active": true,
+                "enabled": true
+            },
+            "BufferVisible": {
+                "name": "BufferVisible",
+                "foregroundColor": "<<tabInactiveForeground>>",
+                "backgroundColor": "<<tabInactiveBackground>>",
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "lineThrough": false,
+                "active": true,
+                "enabled": true
+            },
+            "BufferCurrentMod": {
+                "name": "BufferCurrentMod",
+                "foregroundColor": "<<tabModForeground>>",
+                "backgroundColor": "<<tabActiveBackground>>",
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "lineThrough": false,
+                "active": true,
+                "enabled": true
+            },
+            "BufferVisibleMod": {
+                "name": "BufferVisibleMod",
+                "foregroundColor": "<<tabModForeground>>",
+                "backgroundColor": "<<tabInactiveBackground>>",
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "lineThrough": false,
+                "active": true,
+                "enabled": true
+            },
+            "BufferInactiveMod": {
+                "name": "BufferInactiveMod",
+                "foregroundColor": "<<tabModForeground>>",
+                "backgroundColor": "<<tabInactiveBackground>>",
+                "bold": false,
+                "italic": false,
+                "underline": false,
+                "lineThrough": false,
+                "active": true,
+                "enabled": true
+            },
             "TSTag": {
                 "name": "TSTag",
                 "foregroundColor": "<<tag>>",
@@ -20143,6 +20209,7 @@
             "Vim-fugitive": true,
             "Svelte": true,
             "Telescope": true,
+            "barbar.nvim": true,
             "Treesitter": true
         },
         "groupKeywords": {
@@ -22049,6 +22116,14 @@
                 "TelescopeMatching",
                 "TelescopePromptPrefix"
             ],
+			"barbar.nvim": [
+				"BufferCurrent",
+				"BufferInactive",
+				"BufferVisible",
+				"BufferCurrentMod",
+				"BufferVisibleMod",
+				"BufferInactiveMod"
+			],
             "Treesitter": [
                 "TSTag"
             ]
@@ -23879,7 +23954,13 @@
             "TelescopeResultsBorder": "Normal",
             "TelescopePreviewBorder": "Normal",
             "TelescopeMatching": "Normal",
-            "TelescopePromptPrefix": "Normal",
+			"TelescopePromptPrefix": "Normal",
+			"BufferCurrent": "Normal",
+			"BufferInactive": "Normal",
+			"BufferVisible": "Normal",
+			"BufferCurrentMod": "Normal",
+			"BufferVisibleMod": "Normal",
+			"BufferInactiveMod": "Normal",
             "TSTag": "Normal"
         },
         "keywordGroups": {
@@ -25661,6 +25742,12 @@
             "TelescopePreviewBorder": "Telescope",
             "TelescopeMatching": "Telescope",
             "TelescopePromptPrefix": "Telescope",
+			"BufferCurrent": "barbar.nvim",
+			"BufferInactive": "barbar.nvim",
+			"BufferVisible": "barbar.nvim",
+			"BufferCurrentMod": "barbar.nvim",
+			"BufferVisibleMod": "barbar.nvim",
+			"BufferInactiveMod": "barbar.nvim",
             "TSTag": "Treesitter"
         },
         "fileHandle": null,
