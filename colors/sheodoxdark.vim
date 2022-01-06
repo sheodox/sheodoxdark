@@ -977,3 +977,9 @@ hi BufferInactiveMod  guisp=NONE guifg=#39bae6 guibg=#050709 ctermfg=74  ctermbg
 
 hi TSTag guisp=NONE guifg=#39bae6 guibg=NONE ctermfg=74 ctermbg=NONE gui=NONE cterm=NONE
 
+hi diffAdded          guisp=NONE guifg=NONE    guibg=#0a3605 ctermfg=NONE ctermbg=234  gui=NONE      cterm=NONE
+hi diffChanged       guisp=NONE guifg=NONE    guibg=#022b38 ctermfg=NONE ctermbg=235  gui=NONE      cterm=NONE
+hi diffRemoved       guisp=NONE guifg=NONE    guibg=#4f0808 ctermfg=NONE ctermbg=52   gui=NONE      cterm=NONE
+hi diffText         guisp=NONE guifg=NONE    guibg=#474747 ctermfg=NONE ctermbg=238  gui=NONE      cterm=NONE
+
+
