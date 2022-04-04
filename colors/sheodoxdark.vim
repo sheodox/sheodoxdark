@@ -859,10 +859,10 @@ hi Folded           guisp=NONE guifg=#e5e1cf guibg=NONE    ctermfg=253  ctermbg=
 hi FoldColumn       guisp=NONE guifg=#e5e1cf guibg=NONE    ctermfg=253  ctermbg=NONE gui=NONE      cterm=NONE
 hi SignColumn       guisp=NONE guifg=#e5e1cf guibg=NONE    ctermfg=253  ctermbg=NONE gui=NONE      cterm=NONE
 hi IncSearch        guisp=NONE guifg=#e5e1cf guibg=NONE    ctermfg=253  ctermbg=NONE gui=NONE      cterm=NONE
-hi LineNr           guisp=NONE guifg=#e5e1cf guibg=NONE    ctermfg=253  ctermbg=NONE gui=NONE      cterm=NONE
-hi LineNrAbove      guisp=NONE guifg=#e5e1cf guibg=NONE    ctermfg=253  ctermbg=NONE gui=NONE      cterm=NONE
-hi LineNrBelow      guisp=NONE guifg=#e5e1cf guibg=NONE    ctermfg=253  ctermbg=NONE gui=NONE      cterm=NONE
-hi CursorLineNr     guisp=NONE guifg=#e5e1cf guibg=NONE    ctermfg=253  ctermbg=NONE gui=NONE      cterm=NONE
+hi LineNr           guisp=NONE guifg=#324461 guibg=NONE    ctermfg=253  ctermbg=NONE gui=NONE      cterm=NONE
+hi LineNrAbove      guisp=NONE guifg=#324461 guibg=NONE    ctermfg=253  ctermbg=NONE gui=NONE      cterm=NONE
+hi LineNrBelow      guisp=NONE guifg=#324461 guibg=NONE    ctermfg=253  ctermbg=NONE gui=NONE      cterm=NONE
+hi CursorLineNr     guisp=NONE guifg=#40577c guibg=NONE    ctermfg=253  ctermbg=NONE gui=NONE      cterm=NONE
 hi MatchParen       guisp=NONE guifg=#e5e1cf guibg=NONE    ctermfg=253  ctermbg=NONE gui=NONE      cterm=NONE
 hi ModeMsg          guisp=NONE guifg=#e5e1cf guibg=NONE    ctermfg=253  ctermbg=NONE gui=NONE      cterm=NONE
 hi MoreMsg          guisp=NONE guifg=#e5e1cf guibg=NONE    ctermfg=253  ctermbg=NONE gui=NONE      cterm=NONE
