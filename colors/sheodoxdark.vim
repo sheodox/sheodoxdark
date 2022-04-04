@@ -985,4 +985,12 @@ hi diffText         guisp=NONE guibg=NONE    guifg=#818181 ctermfg=NONE ctermbg=
 " floating window border
 hi FloatBorder         guisp=NONE guibg=NONE    guifg=#3e94f4 ctermfg=NONE ctermbg=238  gui=NONE      cterm=NONE
 
+" markdown heading levels
+hi markdownH1	guifg=#84ff41
+hi markdownH2	guifg=#57ff7e
+hi markdownH3	guifg=#40ffd9
+hi markdownH4	guifg=#60adff
+hi markdownH5	guifg=#6753ff
+hi markdownH6	guifg=#a333ff
+
 
